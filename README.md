@@ -1,2 +1,1 @@
-# Repositorio-Henrry
-este es un repositorio de prueba Henrry
+este es un ejemplo de como clonar un repositorio y guardarlo en un compuutador
